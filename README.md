@@ -1,5 +1,3 @@
-# Burger-House-
-Modern and responsive restaurant website built with HTML, CSS, JavaScript, and Bootstrap.
 # 🍔 Burger House
 
 A modern and responsive restaurant website designed to deliver a smooth and engaging online food-ordering experience.
